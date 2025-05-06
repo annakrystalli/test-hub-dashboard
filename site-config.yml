@@ -1,6 +1,6 @@
 ---
-hub: "cdcepi/FluSight-forecast-hub/"
-title: "Example Hub Dashboard Website"
+hub: "reichlab/metrocast-dashboard/"
+title: "Anna's example Hub Dashboard Website"
 pages:
   - "about.md"
   - "data.qmd"
