@@ -1,4 +1,7 @@
 ---
 hub: "reichlab/flu-metrocast"
 title: "Anna's Flu MetroCast Hub"
-
+pages:
+  - "about.md"
+  - "data.qmd"
+  
